@@ -8,20 +8,20 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/omeruncu/ChartWhisperer"></a>
+  <a href="https://github.com/omeruncu/CartWhisperer"></a>
 
-  <h3 align="center">Chart Whisperer</h3>
+  <h3 align="center">Cart Whisperer</h3>
   <h5 align="center">Association Rule Based Recommender System</h5>
 
   <p align="center">
     <br />
-    <a href="https://github.com/omeruncu/ChartWhisperer"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/omeruncu/CartWhisperer"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     ·
-    <a href="https://github.com/omeruncu/ChartWhisperer/issues">Report Bug</a>
+    <a href="https://github.com/omeruncu/CartWhisperer/issues">Report Bug</a>
     ·
-    <a href="https://github.com/omeruncu/ChartWhisperer/issues">Request Feature</a>
+    <a href="https://github.com/omeruncu/CartWhisperer/issues">Request Feature</a>
   </p>
 </p>
 
@@ -59,15 +59,15 @@ We welcome any suggestions, improvements and development contributions! Please c
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/omeruncu/ChartWhisperer.svg?style=for-the-badge
-[contributors-url]: https://github.com/omeruncu/ChartWhisperer/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/omeruncu/ChartWhisperer.svg?style=for-the-badge
-[forks-url]: https://github.com/omeruncu/ChartWhisperer/network/members
-[stars-shield]: https://img.shields.io/github/stars/omeruncu/ChartWhisperer.svg?style=for-the-badge
-[stars-url]: https://github.com/omeruncu/ChartWhisperer/stargazers
-[issues-shield]: https://img.shields.io/github/issues/omeruncu/ChartWhisperer.svg?style=for-the-badge
-[issues-url]: https://github.com/omeruncu/ChartWhisperer/issues
-[license-shield]: https://img.shields.io/github/license/omeruncu/ChartWhisperer.svg?style=for-the-badge
-[license-url]: https://github.com/omeruncu/ChartWhisperer/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/omeruncu/CartWhisperer.svg?style=for-the-badge
+[contributors-url]: https://github.com/omeruncu/CartWhisperer/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/omeruncu/CartWhisperer.svg?style=for-the-badge
+[forks-url]: https://github.com/omeruncu/CartWhisperer/network/members
+[stars-shield]: https://img.shields.io/github/stars/omeruncu/CartWhisperer.svg?style=for-the-badge
+[stars-url]: https://github.com/omeruncu/CartWhisperer/stargazers
+[issues-shield]: https://img.shields.io/github/issues/omeruncu/CartWhisperer.svg?style=for-the-badge
+[issues-url]: https://github.com/omeruncu/CartWhisperer/issues
+[license-shield]: https://img.shields.io/github/license/omeruncu/CartWhisperer.svg?style=for-the-badge
+[license-url]: https://github.com/omeruncu/CartWhisperer/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/%C3%B6mer-%C3%BC-74197b319/
