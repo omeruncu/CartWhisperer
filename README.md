@@ -49,10 +49,13 @@ Cart Whisperer is a rule-based recommendation engine developed using the Online 
 
 We welcome any suggestions, improvements and development contributions! Please create a pull request or provide feedback by opening an issue.
 
+## Streamlit
+* Link : [https://chartwhisperer-ouzhx3u9bkd6ithvuyjiuz.streamlit.app](https://chartwhisperer-ouzhx3u9bkd6ithvuyjiuz.streamlit.app)
 <!-- CONTACT -->
 ## Contact
 
 * Linkedin : [https://www.linkedin.com/in/%C3%B6mer-%C3%BC-74197b319/](https://www.linkedin.com/in/%C3%B6mer-%C3%BC-74197b319/)
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
