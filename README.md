@@ -34,11 +34,11 @@ Cart Whisperer is a rule-based recommendation engine developed using the Online 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/omeruncu/ChartWhisperer.git
+   git clone https://github.com/omeruncu/CartWhisperer.git
    ```
 2. Switch to the project folder:
    ```bash
-   cd ChartWhisperer
+   cd CartWhisperer
    ```
 3. Install the required Python libraries:
    ```bash
