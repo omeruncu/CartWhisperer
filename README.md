@@ -50,7 +50,7 @@ Cart Whisperer is a rule-based recommendation engine developed using the Online 
 We welcome any suggestions, improvements and development contributions! Please create a pull request or provide feedback by opening an issue.
 
 ## Streamlit
-* Link : [https://chartwhisperer-ouzhx3u9bkd6ithvuyjiuz.streamlit.app](https://chartwhisperer-ouzhx3u9bkd6ithvuyjiuz.streamlit.app)
+* Link : [https://cartwhisperer999ou.streamlit.app](https://cartwhisperer999ou.streamlit.app)
 <!-- CONTACT -->
 ## Contact
 
